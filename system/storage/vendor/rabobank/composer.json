@@ -1,0 +1,5 @@
+{
+    "require": {
+        "opensdks/omnikassa2-sdk": "^1.6"
+    }
+}
